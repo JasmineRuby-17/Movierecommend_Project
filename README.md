@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/d5b6e717-c094-4977-be8b-89665241521e
+
 TAMIL MOVIE RECOMMENDATION SYSTEM: 
 
 A Python-based movie recommendation system built with collaborative filtering and content based filtering techniques, featuring a dataset of 67 Tamil/South Indian films.
