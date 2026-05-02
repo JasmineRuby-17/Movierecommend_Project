@@ -1,18 +1,16 @@
 
-https://github.com/user-attachments/assets/d5b6e717-c094-4977-be8b-89665241521e
-
-TAMIL MOVIE RECOMMENDATION SYSTEM: 
+## TAMIL MOVIE RECOMMENDATION SYSTEM: 
 
 A Python-based movie recommendation system built with collaborative filtering and content based filtering techniques, featuring a dataset of 67 Tamil/South Indian films.
 
-PROJECT OVERVIEW: 
+## PROJECT OVERVIEW: 
 
 This project implements three recommendation strategies to suggest Tamil movies to users based on their preferences and viewing patterns:
 Movie-Based Filtering — Recommends movies similar to a given movie using cosine similarity on the user-movie rating matrix.
 User-Based Filtering — Finds users with similar taste and recommends movies they enjoyed that the target user hasn't seen.
 Content-Based Filtering — Recommends movies in the same genre as the input movie.
 
-📦 Installation: 
+## 📦 Installation: 
 
 1. Clone the repository:
    
@@ -38,3 +36,6 @@ Content-Based Filtering — Recommends movies in the same genre as the input mov
 
     python main.py
     
+## Demo Video
+
+https://github.com/user-attachments/assets/d5b6e717-c094-4977-be8b-89665241521e
