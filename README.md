@@ -14,7 +14,7 @@ Content-Based Filtering — Recommends movies in the same genre as the input mov
 
 1. Clone the repository:
    
-    git clone https://github.com/your-username/movie-recommendation-system.git
+    git clone https://github.com/JasmineRuby-17/Movierecommend_Project
 
     cd movie-recommendation-system
 
